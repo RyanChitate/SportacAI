@@ -1,0 +1,15 @@
+# Ignore Python virtual environments
+venv/
+__pycache__/
+*.pyc
+
+# Ignore outputs
+outputs/videos/*
+outputs/reports/*
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore Streamlit config
+.streamlit/
